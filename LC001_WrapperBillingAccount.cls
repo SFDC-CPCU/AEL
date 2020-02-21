@@ -1,0 +1,29 @@
+public class LC001_WrapperBillingAccount {
+	
+    public String idBillingAccount{get; set;}
+    public String comptePrincipal{get; set;}
+    public String compteMandate{get; set;}
+    public String nomBillingAccount{get; set;}
+    public String adresseLookup{get; set;}
+    public String billCity{get; set;}
+    public String billCountry{get; set;}
+    public String billAdresse1{get; set;}
+    public String billAdresse2{get; set;}
+    public String billDepartement{get; set;}
+    public String billCodePostal{get; set;}
+    public String modePaiement{get; set;}
+    public String delaisPaiement{get; set;}
+    public Date dematDateValidite{get; set;}
+    public String dematRefCodeService{get; set;}
+    public String dematerialisation{get; set;}
+    public String dematRefEJ{get; set;}
+    public String dematEmail{get; set;}
+    public String dematRefCommande{get; set;}
+    public String dematSiret{get; set;}
+    public String impressionLocale{get; set;}
+    public String statutTaxe{get; set;}
+    public String certificatExoneration{get; set;}
+    public Boolean isrecurrent{get; set;}
+    public String numeroPls{get; set;}
+    public String isGroupe{get; set;}
+   }
