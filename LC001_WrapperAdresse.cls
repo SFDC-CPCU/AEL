@@ -9,6 +9,6 @@ public class LC001_WrapperAdresse {
     public String commune{get; set;}
     public String attentionDe {get; set;}
     public String sousCouvertDe {get; set;}
-    
+    public String git {get;set;}
     
 }
